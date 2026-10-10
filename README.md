@@ -3,7 +3,7 @@
 Đồ án môn Machine Learning (Nhóm 45), ĐH Nông Lâm TP.HCM.
 So sánh 4 mô hình hồi quy để dự đoán giá laptop từ cấu hình phần cứng và thương hiệu.
 
-📄 **Báo cáo đầy đủ:** [Nhom45_DuDoanGiaLaptopTheoCauHinhVaThuongHieu.pdf](./docs/Nhom45_DuDoanGiaLaptopTheoCauHinhVaThuongHieu.pdf)
+📄 **Báo cáo đầy đủ:** [Nhom45_DuDoanGiaLaptopTheoCauHinhVaThuongHieu.pdf](https://github.com/user-attachments/files/33288558/Nhom45_DuDoanGiaLaptopTheoCauHinhVaThuongHieu.pdf)
 
 ## Dữ liệu
 - [Laptop Price Dataset (Kaggle)](https://www.kaggle.com/datasets/abdulrahmanelbanna/laptop-price-dataset): hơn 1.300 laptop
